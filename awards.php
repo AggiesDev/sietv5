@@ -1,0 +1,1 @@
+<?php $pageTitle = 'Awards'; require_once __DIR__ . '/includes/header.php'; $heading = 'Awards'; $subtitle = 'Placeholder awards and honours.'; $body = 'Award descriptions, categories, nomination steps, and recipients can be added here.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>

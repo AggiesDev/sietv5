@@ -1,0 +1,1 @@
+<?php $pageTitle = 'Global Network'; require_once __DIR__ . '/includes/header.php'; $heading = 'Global Network'; $subtitle = 'Placeholder international network.'; $body = 'Use this page for chapters, contacts, exchange opportunities, and international programmes.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>

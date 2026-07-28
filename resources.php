@@ -1,0 +1,1 @@
+<?php $pageTitle = 'Resources'; require_once __DIR__ . '/includes/header.php'; $heading = 'Resources'; $subtitle = 'Placeholder downloads and references.'; $body = 'This page can later host guidelines, templates, technical notes, and member-only documents.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>

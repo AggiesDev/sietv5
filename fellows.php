@@ -1,0 +1,1 @@
+<?php $pageTitle = 'Fellows'; require_once __DIR__ . '/includes/header.php'; $heading = 'Fellows'; $subtitle = 'Placeholder recognition page.'; $body = 'Use this page to list approved fellow profiles and recognition criteria.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>

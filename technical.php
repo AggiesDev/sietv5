@@ -1,0 +1,1 @@
+<?php $pageTitle = 'Technical'; require_once __DIR__ . '/includes/header.php'; $heading = 'Technical'; $subtitle = 'Placeholder technical resources.'; $body = 'This page can later hold technical notes, guidance documents, standards references, and templates.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>

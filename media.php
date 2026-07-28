@@ -1,0 +1,1 @@
+<?php $pageTitle = 'Media'; require_once __DIR__ . '/includes/header.php'; $heading = 'Media'; $subtitle = 'Placeholder media resources.'; $body = 'This page can later present media releases, galleries, statements, and press information.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>

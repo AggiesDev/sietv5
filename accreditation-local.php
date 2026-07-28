@@ -1,0 +1,1 @@
+<?php $pageTitle = 'Local Accreditation'; require_once __DIR__ . '/includes/header.php'; $heading = 'Local Accreditation'; $subtitle = 'Dummy local accreditation information.'; $body = 'This page can later list local programmes, providers, and accreditation status.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>

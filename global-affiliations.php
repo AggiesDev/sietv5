@@ -1,0 +1,1 @@
+<?php $pageTitle = 'Global Affiliations'; require_once __DIR__ . '/includes/header.php'; $heading = 'Global Affiliations'; $subtitle = 'Placeholder affiliations and partner bodies.'; $body = 'Describe global links, partner bodies, and collaboration arrangements here.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>

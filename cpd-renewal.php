@@ -1,0 +1,1 @@
+<?php $pageTitle = 'CPD Renewal'; require_once __DIR__ . '/includes/header.php'; $heading = 'CPD Renewal'; $subtitle = 'Placeholder CPD renewal requirements.'; $body = 'Explain CPD hour targets, record review, and renewal cycles here once requirements are approved.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>

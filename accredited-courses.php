@@ -1,0 +1,1 @@
+<?php $pageTitle = 'Accredited Courses'; require_once __DIR__ . '/includes/header.php'; $heading = 'Accredited Courses'; $subtitle = 'Placeholder course listing.'; $body = 'Future versions can connect this page to a course table with filters and expiry dates.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>

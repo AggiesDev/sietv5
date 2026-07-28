@@ -1,0 +1,1 @@
+<?php $pageTitle = 'Career'; require_once __DIR__ . '/includes/header.php'; $heading = 'Career'; $subtitle = 'Placeholder career resources.'; $body = 'This page can later include job posts, mentoring information, and career pathway guidance.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>

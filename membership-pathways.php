@@ -1,0 +1,1 @@
+<?php $pageTitle = 'Membership Pathways'; require_once __DIR__ . '/includes/header.php'; $heading = 'Membership Pathways'; $subtitle = 'Placeholder routes into SIET membership.'; $body = 'Describe academic, professional, and experience-based pathways here after internal review.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>

@@ -1,0 +1,1 @@
+<?php $pageTitle = 'Circulars'; require_once __DIR__ . '/includes/header.php'; $heading = 'Circulars'; $subtitle = 'Placeholder circular archive.'; $body = 'This page can later host official circulars, notices, and administrative updates.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>

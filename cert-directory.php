@@ -1,0 +1,1 @@
+<?php $pageTitle = 'Certification Directory'; require_once __DIR__ . '/includes/header.php'; $heading = 'Certification Directory'; $subtitle = 'Dummy certified practitioner listing page.'; $body = 'This placeholder page can later connect to a verified certification directory table.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>

@@ -1,0 +1,1 @@
+<?php $pageTitle = 'CPD Types'; require_once __DIR__ . '/includes/header.php'; $heading = 'CPD Types'; $subtitle = 'Placeholder CPD categories and examples.'; $body = 'List eligible training, seminars, publications, mentoring, and professional practice activities here.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>

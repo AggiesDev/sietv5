@@ -1,0 +1,3 @@
+name,email,phone,profile_image,membership_no,certification_no,membership_grade,certified_grade,membership_title,post_nominal,branch,specialisation,membership_status,certification_status,is_directory_visible
+Placeholder Member One,member.one@example.com,0100000001,https://placehold.co/120x120?text=M1,SIET-10001,TPC-10001,Member,Certified Engineering Technologist,Member Title,MSIET,Mechanical,Industrial Automation,active,Certified,1
+Placeholder Member Two,member.two@example.com,0100000002,https://placehold.co/120x120?text=M2,SIET-10002,TPC-10002,Graduate Member,Certified Engineering Technician,Graduate Member Title,GradSIET,Instrumentation,Measurement Systems,pending,In Progress,1

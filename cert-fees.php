@@ -1,0 +1,1 @@
+<?php $pageTitle = 'Certification Fees'; require_once __DIR__ . '/includes/header.php'; $heading = 'Certification Fees'; $subtitle = 'Placeholder fee guidance.'; $body = 'Replace this dummy content with approved certification fee schedules and payment notes.'; require __DIR__ . '/includes/simple-page.php'; require_once __DIR__ . '/includes/footer.php'; ?>
